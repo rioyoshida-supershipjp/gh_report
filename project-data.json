@@ -1,0 +1,712 @@
+[
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkObuw",
+    "content": {
+      "number": 560,
+      "title": "【2.0 バグ】チャネル「PUSH」で一括編集アップロードした際、STEP5内の複数箇所に編集内容が反映されていない",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/560",
+      "createdAt": "2026-01-26T04:16:33Z",
+      "updatedAt": "2026-01-29T01:49:36Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          },
+          {
+            "login": "ryotatanaka-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": true
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHRck",
+    "content": {
+      "number": 539,
+      "title": "【2.0 バグ】媒体とロケーションをauPAY_PULLの状態で保存するとオファー履歴詳細に変更をしていないPULL文言の項目が未設定で表示されている",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/539",
+      "createdAt": "2026-01-23T01:47:24Z",
+      "updatedAt": "2026-01-26T04:22:48Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          },
+          {
+            "login": "yutakawakami-supership"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "InTeamReview",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "InTeamReview",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHRec",
+    "content": {
+      "number": 540,
+      "title": "【2.0 バグ】媒体とロケーションをauPAY_PULLの状態で保存するとオファー履歴詳細に変更をしていないLPの項目とURLが表示されている",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/540",
+      "createdAt": "2026-01-23T01:47:36Z",
+      "updatedAt": "2026-01-26T04:22:41Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          },
+          {
+            "login": "yutakawakami-supership"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "InTeamReview",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "InTeamReview",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHVwU",
+    "content": {
+      "number": 545,
+      "title": "【FE】店頭接客/CSチャネル追加",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/545",
+      "createdAt": "2026-01-23T02:13:01Z",
+      "updatedAt": "2026-01-28T02:07:21Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Backlog",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Backlog",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHVto",
+    "content": {
+      "number": 544,
+      "title": "【FE】プレイスホルダCSVアップロード画面",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/544",
+      "createdAt": "2026-01-23T02:12:40Z",
+      "updatedAt": "2026-01-28T02:07:13Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "ryotatanaka-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "In Progress",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "In Progress",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHV48",
+    "content": {
+      "number": 547,
+      "title": "【FE】編集者/承認者の権限変更UI",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/547",
+      "createdAt": "2026-01-23T02:14:04Z",
+      "updatedAt": "2026-01-28T02:08:07Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "rioyoshida-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "In Progress",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "In Progress",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHRlc",
+    "content": {
+      "number": 541,
+      "title": "【2.1 バグ】オファー履歴詳細のクリエイティブの差分がおかしい ",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/541",
+      "createdAt": "2026-01-23T01:48:26Z",
+      "updatedAt": "2026-01-29T01:36:37Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "yutakawakami-supership"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": [
+          {
+            "name": "bug(2.0)"
+          }
+        ]
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {},
+        {
+          "name": "In Progress",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [
+      "bug(2.0)"
+    ],
+    "status": "In Progress",
+    "isUpdatedToday": true
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkObkw",
+    "content": {
+      "number": 559,
+      "title": "【2.0 バグ】アプリ自由領域を空で登録した場合に項目が各画面で出てこない",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/559",
+      "createdAt": "2026-01-26T04:14:55Z",
+      "updatedAt": "2026-01-26T04:22:23Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "rioyoshida-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": [
+          {
+            "name": "bug(2.0)"
+          }
+        ]
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {},
+        {
+          "name": "InReview",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [
+      "bug(2.0)"
+    ],
+    "status": "InReview",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHSEo",
+    "content": {
+      "number": 543,
+      "title": "LP入力欄のバリデーションを削除したい",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/543",
+      "createdAt": "2026-01-23T01:52:43Z",
+      "updatedAt": "2026-01-26T04:30:17Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "ryotatanaka-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHRD4",
+    "content": {
+      "number": 538,
+      "title": "【2.0 バグ】新規オファー作成時にSTEP4で新規でセグメントを作成してSTEP3やSTEP5に移動してSTEP4へ戻ると登録したセグメントの内容がリセットされている",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/538",
+      "createdAt": "2026-01-23T01:43:55Z",
+      "updatedAt": "2026-01-26T04:23:00Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "rioyoshida-supershipjp"
+          },
+          {
+            "login": "ryotatanaka-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "InReview",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "InReview",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHVzE",
+    "content": {
+      "number": 546,
+      "title": "【FE】E2E導入",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/546",
+      "createdAt": "2026-01-23T02:13:17Z",
+      "updatedAt": "2026-01-23T02:14:47Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Issues",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Issues",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWDA",
+    "content": {
+      "number": 548,
+      "title": "チャネルPUSHのクリエイティブにアプリ自由領域の追加",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/548",
+      "createdAt": "2026-01-23T02:15:21Z",
+      "updatedAt": "2026-01-23T02:17:03Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHb_8",
+    "content": {
+      "number": 554,
+      "title": "users取得でエラーになっている原因調査",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/554",
+      "createdAt": "2026-01-23T02:55:47Z",
+      "updatedAt": "2026-01-23T04:48:49Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWFA",
+    "content": {
+      "number": 549,
+      "title": "リマインド関連　見直しする・しないのトグル削除",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/549",
+      "createdAt": "2026-01-23T02:15:35Z",
+      "updatedAt": "2026-01-23T02:16:50Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "ryotatanaka-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWGk",
+    "content": {
+      "number": 550,
+      "title": "【FE】React脆弱性アップデート対応",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/550",
+      "createdAt": "2026-01-23T02:15:47Z",
+      "updatedAt": "2026-01-23T02:16:27Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWIQ",
+    "content": {
+      "number": 551,
+      "title": "【FE】Node.js脆弱性対応",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/551",
+      "createdAt": "2026-01-23T02:16:00Z",
+      "updatedAt": "2026-01-23T02:16:32Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWUw",
+    "content": {
+      "number": 552,
+      "title": "【FE】CSVダウンロードの修正",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/552",
+      "createdAt": "2026-01-23T02:17:54Z",
+      "updatedAt": "2026-01-23T02:18:06Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "rioyoshida-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHWZA",
+    "content": {
+      "number": 553,
+      "title": "テスト配信不可の時間帯では「テスト配信を実行」ボタンを非活性にする",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/553",
+      "createdAt": "2026-01-23T02:18:29Z",
+      "updatedAt": "2026-01-23T02:18:36Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "kiyofumiasada-supershipjp"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  },
+  {
+    "id": "PVTI_lADOAOWlms4BNQ0TzgkHR6s",
+    "content": {
+      "number": 542,
+      "title": "配信開始・終了時間のUI変更",
+      "url": "https://github.com/supership-jp/hakuryuu-frontend/issues/542",
+      "createdAt": "2026-01-23T01:51:25Z",
+      "updatedAt": "2026-01-26T06:16:06Z",
+      "assignees": {
+        "nodes": [
+          {
+            "login": "yutakawakami-supership"
+          }
+        ]
+      },
+      "labels": {
+        "nodes": []
+      }
+    },
+    "fieldValues": {
+      "nodes": [
+        {},
+        {},
+        {
+          "name": "Done",
+          "field": {
+            "name": "Status"
+          }
+        },
+        {}
+      ]
+    },
+    "labels": [],
+    "status": "Done",
+    "isUpdatedToday": false
+  }
+]
